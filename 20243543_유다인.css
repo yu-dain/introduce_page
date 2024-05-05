@@ -1,0 +1,31 @@
+header{display: flex; justify-content: space-between; align-items: center ;}
+#page { border-radius: 20px; background-color: rgb(185,185,185); width: 860px; height: 85px; margin:0px auto; border: 1px solid gray;}
+
+#go {border-radius: 30px; padding: 10px; background-color: rgb(24, 24, 24);  width: 490 ; height: 30px; margin:0 auto; padding-right: 25px; text-align: center;}
+a.menu {display: inline; padding: 5px 10px; text-decoration : none; color : white ; margin-left: 20px;}
+a.menu:hover {font-style: bold; background-color : white; color: black; border-radius: 30px; font-weight: bold; text-align: center;}
+
+#introduce { border-radius: 10px; background-color: white; width: 1700px; height: 110px; margin:1px auto; margin-top: 5px; border: 1px solid gray;}
+
+body { background-color: rgb(226, 226, 234); }
+        
+.parent { display: flex; justify-content: center; margin: 10px; padding: 5px; height: 200px;}
+.child { border-radius: 10px; width: 850px; height: 160px; background-color: white; border: 1px solid gray;}
+
+#book{ border-radius: 10px; background-color: white ; width:1700px; height: 370px; margin:0px auto; border: 1px solid gray; margin-top: 10px;}
+ul {display: flex;  justify-content: left; padding: 10px; margin: 10px;}
+li{margin-right: 40px; margin-left: 55px ; margin-top: 0px;}
+img { display: block; width: 150px; height:200px ; margin-top: 20px;margin-left: 10px;}
+
+#email{ border-radius: 10px; background-color: white ; width:1700px; height: 100px; margin:0px auto; border: 1px solid gray;}
+
+
+#schedule{ border-radius: 10px; background-color: white ; width:1700px; height: 500px; margin:0px auto; padding-bottom: 30px; border: 1px solid gray;}
+#table{ width:850px; height: 400px; margin:0px auto; }
+th {background-color: rgb(74, 74, 74); color: #fff; padding: 3px; text-align: center;}
+td {border: 1px solid gray; background-color:rgb(255, 253, 253); padding: 7px; text-align: center; height: 10px;}
+summary{list-style: none;}
+p{color: rgb(81, 81, 81);}
+td:hover {background-color: rgb(167, 167, 167); color: #ffffff;} 
+
+#coment{border-radius: 10px; background-color: white ; width:1700px; height: 65px; margin:0px auto; border: 1px solid gray;}
